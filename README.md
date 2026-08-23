@@ -2,7 +2,7 @@
 
 ---
 
-**Biomedical Informatics Student @ UFCSPA**
+**Biomedical Informatics Student UFCSPA**
 
 Biomedical Informatics student at UFCSPA, aiming to work as a junior software developer. Interested in building well-structured applications, combining solid programming logic with good development practices.
 
